@@ -18,6 +18,8 @@ n: down + right
 ? to look at things
 OR mouse over object
 
+v to view full messagelog
+
 pickup with g
 inventory is i
 drop is d
