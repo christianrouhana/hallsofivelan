@@ -1,5 +1,13 @@
-# hallsofivelan
+# Halls of Ivelan
 Halls of Ivelan - Roguelike - Early Build
 
-  Classic style 80s inspired roguelike by Christian Rouhana. Early build rolled out for people to test if it can be played to the end. More info in README.txt in /dist/
-  Please message me for any suggestions or critiques! I have a lot of changes on the way.
+Early build of Halls of Ivelan pushed out for bug testing. My main concerns are making sure the game could be played all the way to the end.
+
+# Upcoming Features
+
+    UI Improvements
+    Expanding to 20 total floors
+    Different Environments
+    Overhaul of procedural dungeon generation
+    Overhaul of game balance - It is too easy right now!
+    More items and enemies!
