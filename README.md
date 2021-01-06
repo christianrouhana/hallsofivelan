@@ -7,12 +7,3 @@ Halls of Ivelan is a roguelike project inspired by 80s games like Rogue and Neth
 # Screenshots 
 ![Screenshot_2020-10-29_19-44-19](https://user-images.githubusercontent.com/54915297/97654053-5f4b2280-1a1f-11eb-8d4b-f976c37d0770.png)
 ![Screenshot_2020-10-29_19-44-31](https://user-images.githubusercontent.com/54915297/97654054-607c4f80-1a1f-11eb-8eb7-c84c2e01ea9d.png)
-
-# Upcoming Features
-
-    UI Improvements
-    Expanding to 20 total floors
-    Different Environments
-    Overhaul of procedural dungeon generation
-    Overhaul of game balance - It is too easy right now!
-    More items and enemies!
